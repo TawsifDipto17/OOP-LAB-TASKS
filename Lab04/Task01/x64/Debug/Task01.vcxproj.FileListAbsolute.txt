@@ -1,0 +1,2 @@
+E:\Visual Studio\Lab04\Task01\x64\Debug\Task01.exe
+E:\Visual Studio\OOP\Lab04\Task01\x64\Debug\Task01.exe

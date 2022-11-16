@@ -1,0 +1,5 @@
+﻿  Employee.cpp
+E:\Visual Studio\Lab04\Task02\Employee.cpp(7,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Task02.cpp
+  Generating Code...
+  Task02.vcxproj -> E:\Visual Studio\Lab04\Task02\x64\Debug\Task02.exe

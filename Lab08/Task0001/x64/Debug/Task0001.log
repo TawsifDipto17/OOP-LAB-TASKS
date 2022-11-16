@@ -1,0 +1,4 @@
+﻿  Task0001.cpp
+E:\Visual Studio\OOP\Lab08\Task0001\Task0001.cpp(19,27): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Visual Studio\OOP\Lab08\Task0001\Task0001.cpp(29,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  Task0001.vcxproj -> E:\Visual Studio\OOP\Lab08\Task0001\x64\Debug\Task0001.exe

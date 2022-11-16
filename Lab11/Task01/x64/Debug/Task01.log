@@ -1,0 +1,3 @@
+﻿  Task01.cpp
+Task01.obj : error LNK2005: "void __cdecl operator<<(class std::basic_ofstream<char,struct std::char_traits<char> > &,class Employee)" (??6@YAXAEAV?$basic_ofstream@DU?$char_traits@D@std@@@std@@VEmployee@@@Z) already defined in Employee.obj
+E:\Visual Studio\OOP\Lab11\Task01\x64\Debug\Task01.exe : fatal error LNK1169: one or more multiply defined symbols found

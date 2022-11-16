@@ -1,0 +1,3 @@
+﻿  Task2.cpp
+E:\Visual Studio\OOP\Lab12\Task02\Task2.cpp(40,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Task2.cpp.vcxproj -> E:\Visual Studio\OOP\Lab12\Task02\x64\Debug\Task2.cpp.exe

@@ -1,0 +1,3 @@
+﻿  Task03.cpp
+E:\Visual Studio\OOP\Lab06\Task03\ZooAnimal.h(19,1): warning C4305: '=': truncation from 'double' to 'float'
+  Task03.vcxproj -> E:\Visual Studio\OOP\Lab06\Task03\x64\Debug\Task03.exe

@@ -1,0 +1,10 @@
+﻿  Task01.cpp
+E:\Visual Studio\OOP\Lab12\Task01\Task01.cpp(18,15): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  exception.cpp
+  safearray.cpp
+  Generating Code...
+  Task01.vcxproj -> E:\Visual Studio\OOP\Lab12\Task01\x64\Debug\Task01.exe
